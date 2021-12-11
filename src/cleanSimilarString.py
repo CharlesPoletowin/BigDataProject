@@ -1,5 +1,3 @@
-#!/usr/local/bin/python
-
 from openclean.cluster.knn import knn_clusters
 from openclean.function.similarity.base import SimilarityConstraint
 from openclean.function.similarity.text import LevenshteinDistance
